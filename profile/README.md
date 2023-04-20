@@ -1,4 +1,4 @@
-<a href="https://yulab-smu.top"><img src="https://yulab-smu.top/images/gc.png" style="width:150px;border:2px solid black;" align="right"/></a> 
+<a href="https://yulab-smu.top"><img src="https://yulab-smu.top/images/gc.png" style="width:120px;border:2px solid black;" align="right"/></a> 
 
 
 
@@ -24,7 +24,7 @@ Analysis and intervention of gut microecology in patients with polycystic ovary 
 
 ### Bioinformaitcs tool development
 
-The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., clusterProfiler), phylogenetic data integration and visualization (e.g., treeio and ggtree), metagenomic data analysis (e.g., MicrobiotaProcess) and data visualization (e.g., ggbreak), etc., to help biologists explore and understand data.
+The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., clusterProfiler), phylogenetic data integration and visualization (e.g., treeio and ggtree), metagenomic data analysis (e.g., MicrobiotaProcess) and data visualization (e.g., ggbreak), etc., to help biologists explore and understand data. 
 
 
 
