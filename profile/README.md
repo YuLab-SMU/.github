@@ -1,7 +1,5 @@
-<a href="https://yulab-smu.top"><img src="https://yulab-smu.top/images/gc.png" style="width:200px;border:2px solid black;" align="right"/></a> 
+<a href="https://yulab-smu.top"><img src="https://yulab-smu.top/images/gc.png" style="width:150px;border:2px solid black;" align="right"/></a> 
 
-
-南方医科大学基础医学院生物信息学系余光创课题组，主要通过开发生物信息学方法工具，应用于探索和理解生物学数据。
 
 
 
