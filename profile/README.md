@@ -30,9 +30,13 @@ The research group has developed a variety of widely recognized bioinformatics t
 
 ### Links
 
+<a href="https://weread.qq.com/web/bookDetail/8ad32a00813ab81bbg0183d2"><img src="https://yulab-smu.top/images/book-cover-cn.png" style="height:250px;border:2px solid black;" align="right"/></a>
+
+<a href="https://www.routledge.com/Data-Integration-Manipulation-and-Visualization-of-Phylogenetic-Trees/Yu/p/book/9781032233574"><img src="https://yulab-smu.top/treedata-book/9781032233574_cover_review.png" style="height:250px;border:2px solid black;" align="right"/></a>
+
+
 + You and Your Research ([EN](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) and [CN](https://www.douban.com/note/738530751/?_i=1869561YpDIOEs))
 + [Can a biologist fix a radio?—Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108%2802%2900133-2)
 + [Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/pii/S1878764915001606)
++ [关于从导师视角看学生的一些感悟](https://mp.weixin.qq.com/s/QJ65x8zMFc0j1rdtMM_G9A)
 
-<a href="https://www.routledge.com/Data-Integration-Manipulation-and-Visualization-of-Phylogenetic-Trees/Yu/p/book/9781032233574"><img src="https://yulab-smu.top/treedata-book/9781032233574_cover_review.png" style="height:320px;border:2px solid black;"/></a>
-<a href="https://u.jd.com/uu7G4qC"><img src="https://yulab-smu.top/images/treedata-jd-top1.jpg" style="height:320px;border:2px solid black;"/></a>
