@@ -23,4 +23,4 @@ Our mission is to advance human health, deepen our understanding of diseases, an
 + [Can a biologist fix a radio?—Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108%2802%2900133-2)
 + [Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/pii/S1878764915001606)
 + [关于从导师视角看学生的一些感悟](https://mp.weixin.qq.com/s/QJ65x8zMFc0j1rdtMM_G9A)
-
++ [Awesome-Bio-Foundation-Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models)
