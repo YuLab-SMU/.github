@@ -10,7 +10,7 @@
 
 ----
 
-Our mission is to advance human health, deepen our understanding of diseases, and improve treatments by developing innovative methods, tools, and novel analytical approaches.
+We aim to advance human health, deepen our understanding of diseases, and improve treatments by developing innovative methods, tools, and novel analytical approaches.
 
 
 ### Links
