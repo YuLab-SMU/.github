@@ -10,8 +10,7 @@
 
 ----
 
-We aim to advance human health, deepen our understanding of diseases, and improve treatments by developing innovative methods, tools, and novel analytical approaches.
-
+We are committed to leveraging multidisciplinary integration to develop innovative methods, tools, and novel analytical approaches for tackling complex challenges in biomedicine.
 
 ### Links
 
