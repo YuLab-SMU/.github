@@ -7,19 +7,6 @@
 
 ----
 
-## Research Interest
-
-
-### Microecological Analysis and Intervention
-
-
-Analysis and intervention of gut microecology in patients with polycystic ovary syndrome based on phage-bacteria-human host interaction (supported by the National Science Foundation of China, No. 32270677).
-
-
-
-
-
-### Bioinformaitcs tool development
 
 The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler), [GOSemSim](https://github.com/YuLab-SMU/GOSemSim), [DOSE](https://github.com/YuLab-SMU/DOSE)), phylogenetic data integration and visualization (e.g., [treeio](https://github.com/YuLab-SMU/treeio), [ggtree](https://github.com/YuLab-SMU/ggtree), [ggtreeExtra](https://github.com/YuLab-SMU/ggtreeExtra)), metagenomic data analysis (e.g., [MicrobiotaProcess](https://github.com/YuLab-SMU/MicrobiotaProcess)) and data visualization (e.g., [ggbreak](https://github.com/YuLab-SMU/ggbreak), [aplot](https://github.com/YuLab-SMU/aplot), [enrichplot](https://github.com/YuLab-SMU/enrichplot), [ChIPseeker](https://github.com/YuLab-SMU/ChIPseeker)), etc., to help biologists explore and understand data. 
 
