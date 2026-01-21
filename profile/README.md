@@ -1,8 +1,5 @@
 <a href="https://yulab-smu.top"><img src="https://yulab-smu.top/images/gc.png" style="width:120px;border:2px solid black;" align="right"/></a> 
 
-
-
-
 + 课题组主页：<https://yulab-smu.top>
 + 课题组公众号：[YuLabSMU](http://yulab-smu.top/images/biobabble.jpg)
 
@@ -24,7 +21,7 @@ Analysis and intervention of gut microecology in patients with polycystic ovary 
 
 ### Bioinformaitcs tool development
 
-The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., clusterProfiler), phylogenetic data integration and visualization (e.g., treeio and ggtree), metagenomic data analysis (e.g., MicrobiotaProcess) and data visualization (e.g., ggbreak), etc., to help biologists explore and understand data. 
+The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler), [GOSemSim](https://github.com/YuLab-SMU/GOSemSim), [DOSE](https://github.com/YuLab-SMU/DOSE)), phylogenetic data integration and visualization (e.g., [treeio](https://github.com/YuLab-SMU/treeio), [ggtree](https://github.com/YuLab-SMU/ggtree), [ggtreeExtra](https://github.com/YuLab-SMU/ggtreeExtra)), metagenomic data analysis (e.g., [MicrobiotaProcess](https://github.com/YuLab-SMU/MicrobiotaProcess)) and data visualization (e.g., [ggbreak](https://github.com/YuLab-SMU/ggbreak), [aplot](https://github.com/YuLab-SMU/aplot), [enrichplot](https://github.com/YuLab-SMU/enrichplot), [ChIPseeker](https://github.com/YuLab-SMU/ChIPseeker)), etc., to help biologists explore and understand data. 
 
 
 
