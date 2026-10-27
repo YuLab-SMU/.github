@@ -47,7 +47,7 @@ Grammar-of-graphics extensions for the data types biologists actually work with 
 
 + [aplot](https://github.com/YuLab-SMU/aplot) — align and combine plots with shared axes
 + [ggimage](https://github.com/YuLab-SMU/ggimage) — use images in ggplot2
-+ [ggbreak](https://github.com/YuLab-SMU/ggbreak) — axis breaks for `ggplot2`
++ [ggbreak](https://github.com/YuLab-SMU/ggbreak) — axis breaks for ggplot2
 + [ggmsa](https://github.com/YuLab-SMU/ggmsa) — publication-quality multiple sequence alignment
 + [plotbb](https://github.com/YuLab-SMU/plotbb) — grammar of graphics on base graphics
 + [ggsc](https://github.com/YuLab-SMU/ggsc) — visualizing single-cell and spatial transcriptomics
@@ -68,7 +68,7 @@ A programmable environment for handling tree-structured biological data: parsing
 
 AI-native infrastructure for scientific computing in R. This is our newest direction: making AI-assisted data analysis **programmable, auditable and reproducible**, rather than a chat window beside the analysis.
 
-+ [aisdk](https://github.com/YuLab-SMU/aisdk) — a unified runtime for model providers, tool calling, agents, skills, channels and image generation in R
++ [aisdk](https://github.com/YuLab-SMU/aisdk) — a unified runtime for model providers, tool calling, agents, skills and image generation in R
 + [ggai](https://github.com/YuLab-SMU/ggai) — grammar-guided AI visualization: from natural-language intent to reproducible scientific figures
 + [Rho](https://github.com/YuLab-SMU/Rho) — an agent-native desktop workbench for R
 + [sclet](https://github.com/YuLab-SMU/sclet) — state-aware toolkit for single-cell and spatial transcriptomics
@@ -80,8 +80,3 @@ AI-native infrastructure for scientific computing in R. This is our newest direc
 + You and Your Research ([EN](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) and [CN](https://www.douban.com/note/738530751/?_i=1869561YpDIOEs))
 + [Can a biologist fix a radio?—Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108%2802%2900133-2)
 + Contributions: [Tree data](https://yulab-smu.top/contribution-tree-data/) · [Knowledge mining](https://yulab-smu.top/contribution-knowledge-mining/) · [Visualization](https://yulab-smu.top/contribution-data-visualization/) · [AI-native scientific computing](https://yulab-smu.top/contribution-ai-scientific-computing/)
-
------
-
-**招收生物信息学硕士生、博士生和博士后**，欢迎咨询；同时也欢迎联系科研合作。
-Email: `guangchuangyu AT gmail.com`
