@@ -33,12 +33,13 @@ Our packages are distributed mainly via **Bioconductor** and **CRAN**, and are d
 
 Statistical methods and software for interpreting omics data: functional enrichment, semantic similarity, and knowledge-based annotation.
 
-+ [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) — universal enrichment analysis for gene lists and gene clusters, now extended to single-cell and spatial data
-+ [enrichplot](https://github.com/YuLab-SMU/enrichplot) — visualization of functional enrichment results
-+ [DOSE](https://github.com/YuLab-SMU/DOSE) — Disease Ontology semantic and enrichment analysis
++ [clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) — a universal enrichment tool for interpreting omics data
 + [GOSemSim](https://github.com/YuLab-SMU/GOSemSim) — semantic similarity measures among GO terms, gene products and gene clusters
-+ [ChIPseeker](https://github.com/YuLab-SMU/ChIPseeker) — ChIP peak annotation, comparison and visualization
-+ [ReactomePA](https://github.com/YuLab-SMU/ReactomePA) · [meshes](https://github.com/YuLab-SMU/meshes) · [gson](https://github.com/YuLab-SMU/gson) · [enrichit](https://github.com/YuLab-SMU/enrichit)
++ [gson](https://github.com/YuLab-SMU/gson) — base class and methods for the gson format
++ [enrichit](https://github.com/YuLab-SMU/enrichit) — C++ implementations of functional enrichment analysis
++ [enrichplot](https://github.com/YuLab-SMU/enrichplot) — visualization of functional enrichment results
++ [SVP](https://github.com/YuLab-SMU/SVP) — spatially variable profiler
++ [DOSE](https://github.com/YuLab-SMU/DOSE) · [ChIPseeker](https://github.com/YuLab-SMU/ChIPseeker) · [ReactomePA](https://github.com/YuLab-SMU/ReactomePA) · [meshes](https://github.com/YuLab-SMU/meshes) · [geneSetEmbedding](https://github.com/YuLab-SMU/geneSetEmbedding)
 
 ### 2. Data Visualization
 
