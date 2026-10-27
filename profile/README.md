@@ -18,6 +18,7 @@ Our packages are distributed mainly via **Bioconductor** and **CRAN**, and are d
 <a href="https://github.com/YuLab-SMU/enrichplot"><img src="https://img.shields.io/github/stars/YuLab-SMU/enrichplot?style=flat-square&logo=r&label=enrichplot&color=blue" /></a>
 <a href="https://github.com/YuLab-SMU/ChIPseeker"><img src="https://img.shields.io/github/stars/YuLab-SMU/ChIPseeker?style=flat-square&logo=r&label=ChIPseeker&color=blue" /></a>
 <a href="https://github.com/YuLab-SMU/ggmsa"><img src="https://img.shields.io/github/stars/YuLab-SMU/ggmsa?style=flat-square&logo=r&label=ggmsa&color=blue" /></a>
+<a href="https://github.com/YuLab-SMU/MicrobiotaProcess"><img src="https://img.shields.io/github/stars/YuLab-SMU/MicrobiotaProcess?style=flat-square&logo=r&label=MicrobiotaProcess&color=blue" /></a>
 <a href="https://github.com/YuLab-SMU/ggimage"><img src="https://img.shields.io/github/stars/YuLab-SMU/ggimage?style=flat-square&logo=r&label=ggimage&color=blue" /></a>
 <a href="https://github.com/YuLab-SMU/ggbreak"><img src="https://img.shields.io/github/stars/YuLab-SMU/ggbreak?style=flat-square&logo=r&label=ggbreak&color=blue" /></a>
 <a href="https://github.com/YuLab-SMU/aplot"><img src="https://img.shields.io/github/stars/YuLab-SMU/aplot?style=flat-square&logo=r&label=aplot&color=blue" /></a>
