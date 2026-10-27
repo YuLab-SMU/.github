@@ -38,7 +38,7 @@ Statistical methods and software for interpreting omics data: functional enrichm
 + [DOSE](https://github.com/YuLab-SMU/DOSE) — Disease Ontology semantic and enrichment analysis
 + [GOSemSim](https://github.com/YuLab-SMU/GOSemSim) — semantic similarity measures among GO terms, gene products and gene clusters
 + [ChIPseeker](https://github.com/YuLab-SMU/ChIPseeker) — ChIP peak annotation, comparison and visualization
-+ [ReactomePA](https://github.com/YuLab-SMU/ReactomePA) · [meshes](https://github.com/YuLab-SMU/meshes) · [gson](https://github.com/YuLab-SMU/gson) · [HDO.db](https://github.com/YuLab-SMU/HDO.db) · [createKEGGdb](https://github.com/YuLab-SMU/createKEGGdb)
++ [ReactomePA](https://github.com/YuLab-SMU/ReactomePA) · [meshes](https://github.com/YuLab-SMU/meshes) · [gson](https://github.com/YuLab-SMU/gson) · [enrichit](https://github.com/YuLab-SMU/enrichit)
 
 ### 2. Data Visualization
 
