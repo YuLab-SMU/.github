@@ -77,6 +77,7 @@ AI-native infrastructure for scientific computing in R. This is our newest direc
 
 ### Links
 
++ [给课题组全体成员的一封信 (by 谢然课题组)](https://mp.weixin.qq.com/s/lqD4cXjPusmrUZ9vVAQCLA)
 + You and Your Research ([EN](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) and [CN](https://www.douban.com/note/738530751/?_i=1869561YpDIOEs))
 + [Can a biologist fix a radio?—Or, what I learned while studying apoptosis](https://www.cell.com/cancer-cell/fulltext/S1535-6108%2802%2900133-2)
 + Contributions: [Tree data](https://yulab-smu.top/contribution-tree-data/) · [Knowledge mining](https://yulab-smu.top/contribution-knowledge-mining/) · [Visualization](https://yulab-smu.top/contribution-data-visualization/) · [AI-native scientific computing](https://yulab-smu.top/contribution-ai-scientific-computing/)
